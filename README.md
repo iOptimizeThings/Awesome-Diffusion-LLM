@@ -300,6 +300,7 @@ A comprehensive and structured list of research papers about **Large-Language-Di
 
 | Paper Title | Year | Venue | Remark |
 | :--- | :---: | :---: | :--- |
+| [dlmserve](https://github.com/iOptimizeThings/dlmserve) | 2026.05 | Repo | First OSS serving engine for diffusion LMs (LLaDA family); OpenAI-compatible HTTP, step-level batching (2.5x HF), LocalLeap (1.8x). MIT. |
 | [FOCUS: DLLMs Know How to Tame Their Compute Bound](https://arxiv.org/abs/2601.23278) | 2026.01 | ICML | Training-free inference system; token eviction for higher throughput |
 | [dInfer: An Efficient Inference Framework for Diffusion Language Models](https://arxiv.org/abs/2510.08666v2) | 2025.10 | Arxiv | Modular framework, >1100 TPS |
 | [JetEngine (SDAR)](https://github.com/JetAstra/SDAR) | 2025.10 | Repo | Lightweight engine for SDAR (3700+ TPS on H200) |
